@@ -1,4 +1,6 @@
-<img width="1810" height="651" alt="image" src="https://github.com/user-attachments/assets/2f9b69c4-aef7-40f6-9cde-cb21b68571fc" />
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="Banner">
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=ARIAL&weight=750&size=22&pause=1000&color=2C34F7&background=000000EA&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Devesh+Kadam;AI%26DS+Student;Open+Source+Contributor;Python+Developer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
@@ -90,12 +92,12 @@ Welcome to my GitHub profile! I'm passionate about learning new technologies, co
 
 ---
 
+
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/DeveshKadam06/DeveshKadam06/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/DeveshKadam06/DeveshKadam06/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-
 ---
 
 ## ⚡ Fun Fact
