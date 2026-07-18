@@ -20,32 +20,25 @@ Welcome to my GitHub profile! I'm passionate about learning new technologies, co
 
 <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/4b88386a-592f-4cee-877d-5dc29a4402c6" />
 
+<img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/0d2ec0dc-6e81-470a-b72b-a11fb39d088a" />
 
-- <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/7d903b27-4aa2-484a-a5e4-6f88c4b11e7c" />
+<img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/5ae05762-0bc3-4b93-84d0-37a337ebbf4f" />
 
-- <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/a7b763b6-8ad8-4571-833e-fe20b70af13a" />
+<img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/13912ed5-b58e-4527-a1f9-73b973ead272" />
 
-- <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/31139975-edb0-46a6-9d14-b531a3399538" />
+<img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/aaa8a36c-1c5f-4404-aa80-5c49984f6f58" />
 
-- <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/ad6c8078-5e3f-4bff-9409-b4e31572c544" />
+<img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/6448a515-b190-4252-9ae8-44b6af4d173a" />
 
-- <img width="65" height="56" alt="image" src="https://github.com/user-attachments/assets/94b263c6-6573-4903-8411-ee1e3cbd73d2" />
+<img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/39dbe2fb-cf3e-4eed-abb9-f78a8245f2e1" />
 
-- <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/4379a0df-5df5-490b-83f3-e995c33dab70" />
+<img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/69e89dcf-9420-47ca-9362-f4e1d9d5e08c" />
 
-- <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/b4df7498-efa3-4c62-a48a-51f8bc4fe4c3" />
+<img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/7b9237f3-94fb-40e4-8ceb-51799c3e0459" />
 
-- <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/ce0707ae-20b3-4952-94b8-c4bcd4057aaa" />
+<img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/3008102f-e4a3-43f3-9135-4a94e16935c2" />
 
-- <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/6b8fc1b5-9624-44a1-b0c7-43219db2052c" />
-
-- <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/da9cb8d0-b25b-4fac-8501-951d0186dfc3" />
-
-- <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/4529f562-7e84-4910-bba5-67d4ad009781" />
-
-- <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/956bed28-aacf-441a-a670-32a3fea9ecd4" />
-
-- <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/afeb569f-f0e2-4929-a233-c1635728bcd6" />
+<img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/c0725c02-5784-418d-a42b-39b178b1e446" />
 
 ---
 
@@ -73,8 +66,10 @@ Welcome to my GitHub profile! I'm passionate about learning new technologies, co
 <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/9e9140b4-58e5-4176-918e-c6bef0d1d21d" />
 : https://github.com/DeveshKadam06
 
+
 <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/d319346c-12ec-4ac3-b9a6-89b2e71178cd" />
-: kadamdevesh06@gmail.com
+: https://kadamdevesh06@gmail.com
+
 
 <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/1764cef2-44ce-40b3-94c6-b9002fac4172" />
 : https://www.linkedin.com/in/devesh-kadam-904178315/
