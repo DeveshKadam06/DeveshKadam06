@@ -20,25 +20,36 @@ Welcome to my GitHub profile! I'm passionate about learning new technologies, co
 
 <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/4b88386a-592f-4cee-877d-5dc29a4402c6" />
 
+
 <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/0d2ec0dc-6e81-470a-b72b-a11fb39d088a" />
+
 
 <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/5ae05762-0bc3-4b93-84d0-37a337ebbf4f" />
 
+
 <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/13912ed5-b58e-4527-a1f9-73b973ead272" />
+
 
 <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/aaa8a36c-1c5f-4404-aa80-5c49984f6f58" />
 
+
 <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/6448a515-b190-4252-9ae8-44b6af4d173a" />
+
 
 <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/39dbe2fb-cf3e-4eed-abb9-f78a8245f2e1" />
 
+
 <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/69e89dcf-9420-47ca-9362-f4e1d9d5e08c" />
+
 
 <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/7b9237f3-94fb-40e4-8ceb-51799c3e0459" />
 
+
 <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/3008102f-e4a3-43f3-9135-4a94e16935c2" />
 
+
 <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/c0725c02-5784-418d-a42b-39b178b1e446" />
+
 
 ---
 
@@ -66,10 +77,12 @@ Welcome to my GitHub profile! I'm passionate about learning new technologies, co
 <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/9e9140b4-58e5-4176-918e-c6bef0d1d21d" />
 : https://github.com/DeveshKadam06
 
+---
 
 <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/d319346c-12ec-4ac3-b9a6-89b2e71178cd" />
-: https://kadamdevesh06@gmail.com
+: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kadamdevesh06@gmail.com)
 
+---
 
 <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/1764cef2-44ce-40b3-94c6-b9002fac4172" />
 : https://www.linkedin.com/in/devesh-kadam-904178315/
