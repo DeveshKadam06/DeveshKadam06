@@ -88,6 +88,14 @@ Welcome to my GitHub profile! I'm passionate about learning new technologies, co
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/DeveshKadam06/DeveshKadam06/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+---
+
 ## ⚡ Fun Fact
 
 ⚡ Coffee fuels my coding sessions
