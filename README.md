@@ -20,12 +20,15 @@ Welcome to my GitHub profile! I'm passionate about learning new technologies, co
 
 <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/4b88386a-592f-4cee-877d-5dc29a4402c6" />
 
+<br><br>
 
 <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/0d2ec0dc-6e81-470a-b72b-a11fb39d088a" />
 
+<br><br>
 
 <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/5ae05762-0bc3-4b93-84d0-37a337ebbf4f" />
 
+<br><br>
 
 <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/13912ed5-b58e-4527-a1f9-73b973ead272" />
 
@@ -80,7 +83,7 @@ Welcome to my GitHub profile! I'm passionate about learning new technologies, co
 ---
 
 <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/d319346c-12ec-4ac3-b9a6-89b2e71178cd" />
-: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kadamdevesh06@gmail.com)
+: kadamdevesh06@gmail.com
 
 ---
 
