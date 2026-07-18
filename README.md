@@ -1,8 +1,7 @@
-# Hi there 👋, I'm Devesh Kadam
-
-### 💻 Artificial Intelligence and Data Science Student | Open Source Contributor | Python Enthusiast
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=ARIAL&weight=750&size=22&pause=1000&color=2C34F7&background=000000EA&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Devesh+Kadam;AI%26DS+Student;Open+Source+Contributor;Python+Developer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 Welcome to my GitHub profile! I'm passionate about learning new technologies, contributing to open source, and building practical software projects.
+
+![](https://komarev.com/ghpvc/?username=DeveshKadam06&color=blue)
 
 ---
 
@@ -18,17 +17,33 @@ Welcome to my GitHub profile! I'm passionate about learning new technologies, co
 
 ## 💻 Tech Stack
 
-- Python
-- Java
-- C++
-- C
-- HTML
-- CSS
-- JavaScript
-- MySQL
-- Git
-- GitHub
-- VS Code
+- <img width="897" height="337" alt="image" src="https://github.com/user-attachments/assets/67672c6e-39f5-4129-9cb6-6b706ca2ff23" />
+
+- <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/7d903b27-4aa2-484a-a5e4-6f88c4b11e7c" />
+
+- <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/a7b763b6-8ad8-4571-833e-fe20b70af13a" />
+
+- <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/31139975-edb0-46a6-9d14-b531a3399538" />
+
+- <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/ad6c8078-5e3f-4bff-9409-b4e31572c544" />
+
+- <img width="65" height="56" alt="image" src="https://github.com/user-attachments/assets/94b263c6-6573-4903-8411-ee1e3cbd73d2" />
+
+- <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/4379a0df-5df5-490b-83f3-e995c33dab70" />
+
+- <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/b4df7498-efa3-4c62-a48a-51f8bc4fe4c3" />
+
+- <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/ce0707ae-20b3-4952-94b8-c4bcd4057aaa" />
+
+- <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/6b8fc1b5-9624-44a1-b0c7-43219db2052c" />
+
+- <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/da9cb8d0-b25b-4fac-8501-951d0186dfc3" />
+
+- <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/4529f562-7e84-4910-bba5-67d4ad009781" />
+
+- <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/956bed28-aacf-441a-a670-32a3fea9ecd4" />
+
+- <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/afeb569f-f0e2-4929-a233-c1635728bcd6" />
 
 ---
 
@@ -51,13 +66,51 @@ Welcome to my GitHub profile! I'm passionate about learning new technologies, co
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeveshKadam06&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=DeveshKadam06&theme=tokyonight)
+
+---
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveshKadam06&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DeveshKadam06&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/DeveshKadam06
-- Email: kadamdevesh06@gmail.com
+- <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/9134af5a-0ec3-4439-bc1b-e85c4b5f9ec8" />
+: https://github.com/DeveshKadam06
+- <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/2b270880-212a-4a79-bf3a-81de669d0de4" />
+: kadamdevesh06@gmail.com
+- <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/169f4779-ebcb-453b-bb04-8020148fd4a5" />
+: https://www.linkedin.com/in/devesh-kadam-904178315/
 
 ---
 
 ## ⚡ Fun Fact
 
-I enjoy building Python games, contributing to open source, and continuously learning new technologies.
+⚡ Coffee fuels my coding sessions
+
+🐍 Python is my favorite language
+
+🎮 I enjoy building games
+
+🌱 Always learning something new
+
+---
+
+"Code. Learn. Build. Repeat. 🚀"
