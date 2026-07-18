@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=ARIAL&weight=750&size=22&pause=1000&color=2C34F7&background=000000EA&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Devesh+Kadam;AI%26DS+Student;Open+Source+Contributor;Python+Developer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
 Welcome to my GitHub profile! I'm passionate about learning new technologies, contributing to open source, and building practical software projects.
 
 ![](https://komarev.com/ghpvc/?username=DeveshKadam06&color=blue)
@@ -17,7 +18,8 @@ Welcome to my GitHub profile! I'm passionate about learning new technologies, co
 
 ## 💻 Tech Stack
 
-- <img width="897" height="337" alt="image" src="https://github.com/user-attachments/assets/67672c6e-39f5-4129-9cb6-6b706ca2ff23" />
+<img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/4b88386a-592f-4cee-877d-5dc29a4402c6" />
+
 
 - <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/7d903b27-4aa2-484a-a5e4-6f88c4b11e7c" />
 
@@ -66,37 +68,15 @@ Welcome to my GitHub profile! I'm passionate about learning new technologies, co
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeveshKadam06&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=DeveshKadam06&theme=tokyonight)
-
----
-
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveshKadam06&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=DeveshKadam06&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 📫 Connect With Me
 
-- <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/9134af5a-0ec3-4439-bc1b-e85c4b5f9ec8" />
+<img width="189" height="148" alt="image" src="https://github.com/user-attachments/assets/9e9140b4-58e5-4176-918e-c6bef0d1d21d" />
 : https://github.com/DeveshKadam06
-- <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/2b270880-212a-4a79-bf3a-81de669d0de4" />
+
+<img width="217" height="148" alt="image" src="https://github.com/user-attachments/assets/d319346c-12ec-4ac3-b9a6-89b2e71178cd" />
 : kadamdevesh06@gmail.com
-- <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/169f4779-ebcb-453b-bb04-8020148fd4a5" />
+
+<img width="153" height="148" alt="image" src="https://github.com/user-attachments/assets/1764cef2-44ce-40b3-94c6-b9002fac4172" />
 : https://www.linkedin.com/in/devesh-kadam-904178315/
 
 ---
