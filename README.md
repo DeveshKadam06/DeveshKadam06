@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm passionate about learning new technologies, co
 
 ## 💻 Tech Stack
 
-<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/4b88386a-592f-4cee-877d-5dc29a4402c6" />
+<img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/4b88386a-592f-4cee-877d-5dc29a4402c6" />
 
 
 - <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/7d903b27-4aa2-484a-a5e4-6f88c4b11e7c" />
@@ -70,13 +70,13 @@ Welcome to my GitHub profile! I'm passionate about learning new technologies, co
 
 ## 📫 Connect With Me
 
-<img width="189" height="148" alt="image" src="https://github.com/user-attachments/assets/9e9140b4-58e5-4176-918e-c6bef0d1d21d" />
+<img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/9e9140b4-58e5-4176-918e-c6bef0d1d21d" />
 : https://github.com/DeveshKadam06
 
-<img width="217" height="148" alt="image" src="https://github.com/user-attachments/assets/d319346c-12ec-4ac3-b9a6-89b2e71178cd" />
+<img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/d319346c-12ec-4ac3-b9a6-89b2e71178cd" />
 : kadamdevesh06@gmail.com
 
-<img width="153" height="148" alt="image" src="https://github.com/user-attachments/assets/1764cef2-44ce-40b3-94c6-b9002fac4172" />
+<img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/1764cef2-44ce-40b3-94c6-b9002fac4172" />
 : https://www.linkedin.com/in/devesh-kadam-904178315/
 
 ---
