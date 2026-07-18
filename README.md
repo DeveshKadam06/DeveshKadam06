@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm passionate about learning new technologies, co
 
 ## 💻 Tech Stack
 
-<img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/4b88386a-592f-4cee-877d-5dc29a4402c6" />
+<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/4b88386a-592f-4cee-877d-5dc29a4402c6" />
 
 
 - <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/7d903b27-4aa2-484a-a5e4-6f88c4b11e7c" />
